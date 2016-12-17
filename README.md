@@ -1,0 +1,2 @@
+# myconf
+automatic configurations
